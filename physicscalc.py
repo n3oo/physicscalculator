@@ -64,3 +64,6 @@ if options == "6":
     v4 = i2*r2
     print(v4, "V")
     sys.exit()
+else:
+    print("Error ")
+    sys.exit()
